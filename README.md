@@ -1,2 +1,2 @@
 # ML_training
-learning ML code
+Trying to learn ML with coding
